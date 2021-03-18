@@ -28,7 +28,7 @@ I am too shy to share my embarasing buggy code, well it can be helped, I shared 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashanz&layout=compact&theme=tokyonight" alt="Github Top Language" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mashanz" alt="Waka Time" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mashanz&layout=compact" alt="Waka Time" width="100%"/>
     </td>
   </tr>
   <tr>
