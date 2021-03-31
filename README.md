@@ -1,3 +1,4 @@
+![Profile Views](https://gpvc.arturio.dev/mashanz)
 <p align="center">
   Hi there 👋 Welcome to my REPO!
 </p>
