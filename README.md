@@ -1,4 +1,3 @@
-![Profile Views](https://gpvc.arturio.dev/mashanz)
 <p align="center">
   Hi there 👋 Welcome to my REPO!
 </p>
@@ -38,3 +37,7 @@ I am too shy to share my embarasing buggy code, well it can be helped, I shared 
     </td>
   </tr>
 </table>
+
+<hr />
+
+![Profile Views](https://gpvc.arturio.dev/mashanz)
