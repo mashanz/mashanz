@@ -1,43 +1,36 @@
 <p align="center">
-  Hi there 👋 Welcome to my REPO!
+  Hi there 👋 I'm Han, Welcome to my REPO!
 </p>
 <hr>
 
-Share `free software` is so much <b>fun</b>, and life is much meaningfull for sharing happiness.
+- 💻 Coder since 2006
+- 📚 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
 
-<img src="https://github-profile-trophy.vercel.app/?username=mashanz&theme=onedark&column=8&margin-w=15&margin-h=15">
-
-```
-I am too shy to share my embarasing buggy code, well it can be helped, I shared them anyway for fun.
-```
-
-> <b>Note</b>:<br>
-> check my pinned repo to find out what projects currently going on
-
-<table text-align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashanz&theme=tokyonight" alt="Github Streak" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mashanz&show_icons=true&hide_border=true&theme=tokyonight" alt="Github Stats" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashanz&layout=compact&theme=tokyonight" alt="Github Top Language" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mashanz&layout=compact" alt="Waka Time" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=mashanz&theme=react-dark" alt="Github Contribution" width="100%"/>
-    </td>
-  </tr>
-</table>
+### Tech Stack
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Android-404D59?style=for-the-badge&logo=android&logoColor=4EA94B)
+![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=orange)
+![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=dark)
 
 <hr />
+
+<p align="center">
+  🌏 My Porto, Skill and Code look like 💩 (Choco Ice Cream), but this is my rate-card* (<s>meme</s>) 🔽
+</p>
+
+![127 0 0 1_5500_inquiry html](https://user-images.githubusercontent.com/9214059/137585884-c8d344fe-e5f1-4f25-8ead-6095b6207236.png)
+
+`* Friendly Price (Harga Teman)`
 
 ![Profile Views](https://gpvc.arturio.dev/mashanz)
