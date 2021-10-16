@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-- 💻 Coder since 2006
+- 💻 Coder since 2006 (12 Y.O)
 - 📚 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
 
 ### Recent Tech Stack
