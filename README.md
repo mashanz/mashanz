@@ -3,8 +3,8 @@
 </p>
 <hr>
 
-- 💻 Coder since 2006 (12 Y.O)
-- 📚 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
+- 💻 Coder since 2006 (12 Years Old)
+- 🚩 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
 
 ### Recent Tech Stack
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
