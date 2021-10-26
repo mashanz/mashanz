@@ -5,6 +5,7 @@
 
 - 💻 Coder since 2006 (12 Years Old)
 - 🚩 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
+- 🎹 Unrelated Work with 15+ Years of Exprience
 
 ### Recent Tech Stack
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -29,8 +30,6 @@
   🌏 My Porto, Skill and Code look like 💩 (Choco Ice Cream), but this is my rate-card* (<s>meme</s>) 🔽
 </p>
 
-![127 0 0 1_5500_inquiry html](https://user-images.githubusercontent.com/9214059/137585884-c8d344fe-e5f1-4f25-8ead-6095b6207236.png)
-
-`* Friendly Price (Harga Teman)`
+- [On Demand Rate Card](https://mashanz.com/inquiry) `* Friendly Price (Harga Teman)`
 
 ![Profile Views](https://gpvc.arturio.dev/mashanz)
