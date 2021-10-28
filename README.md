@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-- 💻 Coder since 2006 (12 Years Old) and still learning
+- 💻 Coder since 2006 and still learning
 - 🚩 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
 - 🎹 Electrical Engineer who become Software Engineer, Musician and Enterpreneur.
 
