@@ -3,9 +3,9 @@
 </p>
 <hr>
 
-- 💻 Coder since 2006 (12 Years Old)
+- 💻 Coder since 2006 (12 Years Old) and still learning
 - 🚩 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
-- 🎹 Unrelated Work with 15+ Years of Exprience
+- 🎹 Electrical Engineer who become Software Engineer, Musician and Enterpreneur.
 
 ### Recent Tech Stack
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -25,11 +25,5 @@
 ![](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=dark)
 
 <hr />
-
-<p align="center">
-  🌏 My Porto, Skill and Code look like 💩 (Choco Ice Cream), but this is my rate-card* (<s>meme</s>) 🔽
-</p>
-
-- [On Demand Rate Card](https://mashanz.com/inquiry) `* Friendly Price (Harga Teman)`
 
 ![Profile Views](https://gpvc.arturio.dev/mashanz)
