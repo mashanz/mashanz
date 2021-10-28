@@ -7,6 +7,8 @@
 - 🚩 Any Stack (🕸 Web, 📱 Mobile, 👾 Embedded)
 - 🎹 Electrical Engineer who become Software Engineer, Musician and Enterpreneur.
 
+<hr>
+
 ### Recent Tech Stack
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
