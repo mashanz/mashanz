@@ -22,11 +22,21 @@
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Android-404D59?style=for-the-badge&logo=android&logoColor=4EA94B)
 ![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=orange)
 ![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=dark)
+![](https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest&logoColor=dark)
+![](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=dark)
+![](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
+![](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
+![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=green)
+![](https://img.shields.io/badge/Android-404D59?style=for-the-badge&logo=android&logoColor=4EA94B)
+![](https://img.shields.io/badge/ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=orange)
+![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)
+![](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=apple&logoColor=silver)
 
 <hr />
 
