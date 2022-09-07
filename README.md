@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="200px" src="https://user-images.githubusercontent.com/9214059/139394935-fa9ab566-f4f6-4884-99f2-e6bf460087eb.png" alt=""/><br/><br/>
   Hi there 👋 I'm Han, Welcome to my REPO!
 </p>
 <hr>
