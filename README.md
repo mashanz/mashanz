@@ -9,7 +9,17 @@
 
 <hr>
 
-### Recent Tech Stack
+### ❤️ What I use and love to work with
+![](https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
+![](https://img.shields.io/badge/SvelteKit-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![](https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=tauri&logoColor=white)
+![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
+<hr>
+
+### 🧭 Recent Tech Stack
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
