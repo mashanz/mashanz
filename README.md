@@ -54,7 +54,7 @@
 
 ### Activity
 - 💰 [Work to pay my bills](https://mashanz.com)
-- 💻 [Teaching Tech Stuff to Community](https://mashanz.com)
+- 💻 [Teaching Tech Stuff to Community](https://app.mashanz.com)
 - ✨ [Building Apps](https://github.com/mashanz?tab=repositories)
 - 📦 [Published NPMJS Package](https://www.npmjs.com/~mashanz)
 
