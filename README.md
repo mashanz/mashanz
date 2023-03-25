@@ -56,8 +56,9 @@
 - 💰 [Work to pay my bills](https://mashanz.com)
 - 💻 [Teaching Tech Stuff to Community](https://app.mashanz.com)
 - ✨ [Building Apps](https://github.com/mashanz?tab=repositories)
-- 📦 [Published NodeJS Package](https://www.npmjs.com/~mashanz)
-- 📦 [Published Rust Package](https://crates.io/users/mashanz)
+- 📦 [Published NodeJS (NPMJS) Package](https://www.npmjs.com/~mashanz)
+- 📦 [Published Rust (Crates) Package](https://crates.io/users/mashanz)
+- 📦 [Published Python (PyPI) Pakcage](https://pypi.org/manage/projects/)
 
 <hr />
 
