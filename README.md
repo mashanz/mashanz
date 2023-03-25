@@ -58,6 +58,7 @@
 - ✨ [Building Apps](https://github.com/mashanz?tab=repositories)
 - 📦 [Published NodeJS (NpmJS) Package](https://www.npmjs.com/~mashanz)
 - 📦 [Published Rust (Crates) Package](https://crates.io/users/mashanz)
+- 📦 [Published Docker Image](https://hub.docker.com/u/mashanz)
 - 📦 [Published Python (PyPI) Pakcage](https://pypi.org/manage/projects/)
 
 <hr />
