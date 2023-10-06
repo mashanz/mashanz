@@ -11,7 +11,6 @@
 
 ### ❤️ What I use and love to work with
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red)
-![](https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/SvelteKit-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ![](https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=tauri&logoColor=white)
