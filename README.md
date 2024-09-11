@@ -54,8 +54,6 @@
 
 ### Activity
 - 💰 [Work to pay my bills](https://mashanz.com)
-- 💻 [Teaching Tech Stuff to Community](https://app.mashanz.com)
-- 🚀 [Selling Projects Source Code](https://svelteism.com)
 - ✨ [Building Apps](https://github.com/mashanz?tab=repositories)
 - 📦 [Published NodeJS (NpmJS) Package](https://www.npmjs.com/~mashanz)
 - 📦 [Published Rust (Crates) Package](https://crates.io/users/mashanz)
@@ -63,16 +61,4 @@
 - 📦 [Published Python (PyPI) Pakcage](https://pypi.org/manage/projects/)
 
 <hr />
-
-## Want to download full app source code template projects?
-
-Visit [svelteism](https://svelteism.com) 🚀
-
-## Searching Remote Job Opportunity?
-
-Visit [remote-hunter.com](https://remote-hunter.com) 💡
-
-## Learning Fullstack Developer?
-
-Visit [app.mashanz.com](https://app.mashanz.com) 💻
 
